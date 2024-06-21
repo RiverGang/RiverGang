@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbee9d,100:ccb985&height=120&text=River's%20GitHub&animation=&fontColor=53443c&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c5e0f7,100:7eb3e2&height=120&text=River's%20GitHub&animation=&fontColor=251913&fontSize=50" />
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -25,8 +25,8 @@
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=RiverGang&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiverGang&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=RiverGang&bg_color=60,ffffff,e5f3ff&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiverGang&layout=compact&bg_color=60,ffffff,e5f3ff&title_color=000000&text_color=000000"
            /> </div> 
     </div>
     
