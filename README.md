@@ -1,6 +1,13 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c5e0f7,100:7eb3e2&height=120&text=River's%20GitHub&animation=&fontColor=251913&fontSize=50" />
+    <div>
+        ## Profile
+        - Name: Lee SungHee (River)
+        - Email : sory304@naver.com
+        - 
     </div>
+    
+    
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
