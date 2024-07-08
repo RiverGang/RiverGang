@@ -1,10 +1,8 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c5e0f7,100:7eb3e2&height=120&text=River's%20GitHub&animation=&fontColor=251913&fontSize=50" />
+    <br>
     <div>
-        ## Profile
-        - Name: Lee SungHee (River)
-        - Email : sory304@naver.com
-        - 
+    
     </div>
     
     
