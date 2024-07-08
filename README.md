@@ -12,3 +12,9 @@
   <img height="30" src="https://img.icons8.com/?size=100&id=13443&format=png&color=000000" title="Raspberry Pi">
   <img height="30" src="https://mosquitto.org/stickers/mosquitto-mono.png" title="MQTT">
 </p>
+
+## 기술 명세
+| 기술분류 | 설명 |
+|:---:|:--:|
+|VsCode| VisualStudio Code 툴 사용법 습득|
+|Python| 빅데이터분석, 머신러닝, OpenCV|
